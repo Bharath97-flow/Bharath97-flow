@@ -7,19 +7,19 @@ My goal is to write clean code, understand fundamentals deeply, and contribute t
 
 ## What I Work On
 - C
-- C++
+- Zephyr RTOS
 - Linux  
-- Communication protocols 
-- Timers and interrupt configurations
+- Communication protocols such as I2C, SPI, CAN and UART
+- Perphiral configurations of a Microcontroller
 
 ---
 
 ## Skills & Tools
 **Languages:** C, C++, Python, Shell programming  
-**Platforms:** Ubuntu/Linux, PIC microcontrollers  
-**Frameworks / OS:** Ubuntu/Linux 
+**Platforms:** STM32, AVR Atmega 328p, PIC microcontrollers  
+**Frameworks / OS:** Zephyr RTOS, Ubuntu/Linux 
 **Tools:** MP lab, GCC/G++  
-**Special Interests:** RTOS, ARM programming, BareMetal development 
+**Special Interests:** Zephyr RTOS, BareMetal development 
 
 ---
 
@@ -36,18 +36,18 @@ My goal is to write clean code, understand fundamentals deeply, and contribute t
 - **Code:** https://github.com/Bharath97-flow/PROJECT-PORTFOLIO/tree/main/Stegnography
 - **Notes:** Implemented efficient file handling and gained good memory manipulation ability
 
-### Address Book
+### Minishell implementation
 - **What it is:** Address management system 
 - **Tech:** C  
-- **Code:** https://github.com/Bharath97-flow/PROJECT-PORTFOLIO/tree/main/AddressBook
-- **Notes:** Executed without the assist of library functions by creating and calling function mimicing them 
+- **Code:** https://github.com/Bharath97-flow/PROJECT-PORTFOLIO/tree/main/minishell
+- **Notes:** Implemented custom shell using Linux Internals.
 
 ---
 
 ## What I'm Learning Right Now
-- ARM programming  
+- Bluetooth Low Energy Stack Analysis in Zephyr RTOS 
+- Zephyr RTOS
 - Linux internals  
-- RTOS  
 
 ---
 
